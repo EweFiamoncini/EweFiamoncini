@@ -1,4 +1,4 @@
-### Ewerton Fiamoncini | Desenvolvedor Web Frontend
+# Ewerton Fiamoncini | Desenvolvedor Web Frontend
 
 ## ⚙️ Tecnologias e ferramentas
 
