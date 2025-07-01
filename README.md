@@ -1,15 +1,22 @@
-## Olá, eu sou o Ewerton Fiamoncini, desenvolvedor web front end e estudante de engenharia de software!
+### Ewerton Fiamoncini | Desenvolvedor Web Frontend
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ewe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ewe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ewe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/fiamoncini.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ewertonfiamoncini20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ewerton-fiamoncini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+## ⚙️ Tecnologias e ferramentas
+
+### 🎨 Front-end e design
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📲 Conecte-se comigo
+
+- 💼 LinkedIn: [linkedin.com/in/ewerton-fiamoncini](https://www.linkedin.com/in/ewerton-fiamoncini/)
+- 🖥️ Portfolio/Site: [ewefiamoncini.github.io](https://ewefiamoncini.github.io/portfolio/)
+
+---
+
+_“Um bom software deve encantar os olhos e capacitar a mente.”_ 🎨💻  
