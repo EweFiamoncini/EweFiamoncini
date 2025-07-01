@@ -1,4 +1,4 @@
-## Olá, eu sou o Ewerton Fiamoncini, desenvolvedor front end e estudante de engenharia de software!
+## Olá, eu sou o Ewerton Fiamoncini, desenvolvedor web front end e estudante de engenharia de software!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ewe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
