@@ -1,50 +1,72 @@
-![](https://komarev.com/ghpvc/?username=ewefiamoncini&color=006bed)
+# 👨‍💻 Ewerton Fiamoncini
 
-## Ewerton Fiamoncini - Web Developer
+**`Desenvolvedor Web Full-Stack`**
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções web.
-- 🎓 Estudando Engenharia de Software na Unicesumar.
-- 🌱 Aprendendo mais sobre JavaScript.
+Olá, me chamo [Ewerton](https://www.linkedin.com/in/ewerton-fiamoncini/) tenho 25 anos e sou desenvolvedor web Full-Stack com foco em Back-End e Front-end. Tenho cerca de 1 ano de estudo na área de desenvolvimento e meu objetivo é me tornar um grande desenvolvedor Full-Stack e conseguir contribuir muito para a tecnologia e inovação. Atualmente estou no 2 modulo de Bacharelado em Engenharia de Software, também estou fazendo um curso de JavaScript.
 
-## Minhas Skills
 
-**Aplicações e dados**
+<p align="left">
+    <a href="https://github.com/ewefiamoncini?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/ewefiamoncini?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/isabelamarquess?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/ewefiamoncini?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-<!--![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)-->
+---
 
-**DevOps**
+### 🤖 Linguagens e Tecnologias
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-<!--![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)-->
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
 
-**Ferramentas de desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-<!--![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)-->
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+ <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />-->
 
 <br/>
+<br/>
 
-<a href="https://github.com/ewefiamoncini" title="Perfil do Ewe Fiamoncini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ewefiamoncini&theme=dracula&show_icons=true" />
-</a>
+---
 
-## Onde me encontrar
-
-[![Linkedin](https://img.shields.io/badge/-EweFiamoncini-blue?style=flat-square&logo=linkedin&logoColor=white&link=(https://www.linkedin.com/in/ewerton-fiamoncini/))](https://www.linkedin.com/in/ewerton-fiamoncini/)
-[![Gmail Badge](https://img.shields.io/badge/-ewertonfiamoncini20@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ewertonfiamoncini20@gmail.com)](mailto:ewertonfiamoncini20@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/ewefiamoncini?label=follow&style=social)](https://github.com/ewefiamoncini)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ewefiamoncini&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ewefiamoncini&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
