@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Web Full-Stack`**
 
-Olá, me chamo [Ewerton](https://www.linkedin.com/in/ewerton-fiamoncini/) tenho 25 anos e sou desenvolvedor web Full-Stack com foco em Back-End e Front-end. Tenho cerca de 1 ano de estudo na área de desenvolvimento e meu objetivo é me tornar um grande desenvolvedor Full-Stack e conseguir contribuir muito para a tecnologia e inovação. Atualmente estou no 2 modulo de Bacharelado em Engenharia de Software, também estou fazendo um curso de JavaScript.
+Olá, me chamo [Ewerton](https://www.linkedin.com/in/ewerton-fiamoncini/) tenho 26 anos e sou desenvolvedor web Full-Stack com foco em Back-End e Front-end. Tenho cerca de 1 ano de estudo na área de desenvolvimento e meu objetivo é me tornar um grande desenvolvedor Full-Stack e conseguir contribuir muito para a tecnologia e inovação. Atualmente estou no 2 modulo de Bacharelado em Engenharia de Software, também estou fazendo um curso de JavaScript.
 
 
 <p align="left">
