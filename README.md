@@ -2,7 +2,7 @@
 
 **`Engenheiro de Software`**
 
-Olá, me chamo [Ewerton](https://www.linkedin.com/in/ewerton-fiamoncini/) tenho 26 anos e sou estudante de Engenharia de Software, com foco em programação Back-End. Tenho cerca de 1 ano de estudo na área de desenvolvimento e meu objetivo é me tornar um grande desenvolvedor Back-End e conseguir contribuir muito para a tecnologia e inovação. Atualmente estou no 2 modulo de Bacharelado em Engenharia de Software, também estou fazendo me aprofundando nos conhecimentos de Java.
+Olá, me chamo [Ewerton](https://www.linkedin.com/in/ewerton-fiamoncini/) tenho 26 anos e sou estudante de Engenharia de Software, com foco em programação Back-End. Tenho cerca de 1 ano de estudo na área de desenvolvimento e meu objetivo é me tornar um grande desenvolvedor Back-End e conseguir contribuir muito para o avanço da tecnologia e inovação. Atualmente estou no 2 modulo de Bacharelado em Engenharia de Software, também estou fazendo me aprofundando nos conhecimentos de Java.
 
 
 <p align="left">
