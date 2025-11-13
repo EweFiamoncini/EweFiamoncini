@@ -26,16 +26,21 @@ Olá, me chamo [Ewerton](https://www.linkedin.com/in/ewerton-fiamoncini/) tenho 
 
 ### 🤖 Linguagens e Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,c,java,git,github,vscode,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/pt)
+[![My Skills](https://skillicons.dev/icons?i=c)](https://www.w3schools.com/c/c_intro.php)
+[![My Skills](https://skillicons.dev/icons?i=java)](https://www.java.com/pt-BR/)
+[![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 <br/>
 <br/>
 
 ---
 
-### 📱 Redes Sociais
+### 📱 Redes
 
 [![Redes Sociais](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ewertonfiamoncini/)
 [![Redes Sociais](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ewe_fiamoncini/)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/EweFiamoncini)
 <br/>
 <br/>
 
