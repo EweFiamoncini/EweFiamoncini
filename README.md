@@ -34,7 +34,7 @@ Olá, me chamo [Ewerton](https://www.linkedin.com/in/ewerton-fiamoncini/) tenho 
 
 ### 📱 Redes Sociais
 
-[![Redes Sociais](https://skillicons.dev/icons?i=instagram,linkedin)](https://skillicons.dev)
+[![Redes Sociais](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ewertonfiamoncini/)
 <br/>
 <br/>
 
