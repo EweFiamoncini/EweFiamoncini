@@ -26,11 +26,14 @@ Olá, me chamo [Ewerton](https://www.linkedin.com/in/ewerton-fiamoncini/) tenho 
 
 ### 🤖 Linguagens e Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/pt)
-[![My Skills](https://skillicons.dev/icons?i=c)](https://www.w3schools.com/c/c_intro.php)
 [![My Skills](https://skillicons.dev/icons?i=java)](https://www.java.com/pt-BR/)
+[![My Skills](https://skillicons.dev/icons?i=spring)](https://spring.io/projects/spring-boot)
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![My Skills](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/pt/?nc2=h_home&refid=e0e039fb-568c-48f4-a056-60787f4f3c67)
 [![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![My Skills](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/)
 <br/>
 <br/>
 
