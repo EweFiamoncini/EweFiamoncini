@@ -37,6 +37,8 @@ Olá, me chamo [Ewerton](https://www.linkedin.com/in/ewerton-fiamoncini/) tenho 
 <br/>
 <br/>
 
+[![ewefiamoncini](https://github-readme-stats.vercel.app/api/top-langs/?username=ewefiamoncini&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ### 📱 Redes
