@@ -42,7 +42,7 @@ Olá, me chamo [Ewerton](https://www.linkedin.com/in/ewerton-fiamoncini/) tenho 
 ### 📱 Redes
 
 [![Redes Sociais](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ewertonfiamoncini/)
-[![Redes Sociais](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ewe_fiamoncini/)
+[![Redes Sociais](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/fiamoncini.dev/)
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/EweFiamoncini)
 <br/>
 <br/>
